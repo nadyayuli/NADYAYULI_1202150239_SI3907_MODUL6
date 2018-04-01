@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "686972493178",
+    "firebase_url": "https://nadya1202150239modul6.firebaseio.com",
+    "project_id": "nadya1202150239modul6",
+    "storage_bucket": "nadya1202150239modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686972493178:android:8a0e811899f3430e",
+        "android_client_info": {
+          "package_name": "com.example.nadyayulipratama.nadya_1202150239_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686972493178-rl1pgds6vefrmlmm72r077vmjj48e488.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nadyayulipratama.nadya_1202150239_modul6",
+            "certificate_hash": "3c8fdbb431541e447df1affae0300b33594ef8b5"
+          }
+        },
+        {
+          "client_id": "686972493178-gne7p1ti8dojpdo9nccjgfcdhmin8rb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWZm-uL2nzwRqW7aCFnKQqMjXq5Lssf2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686972493178-gne7p1ti8dojpdo9nccjgfcdhmin8rb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

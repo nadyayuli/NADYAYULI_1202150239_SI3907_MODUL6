@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NADYA_1202150239_MODUL6</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_setting">Logout</string>
+    <string name="Layout">layout</string>
+    <string name="title_activity_home2">Home2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
